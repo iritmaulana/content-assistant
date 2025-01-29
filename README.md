@@ -2,8 +2,6 @@
 
 A flexible Laravel application that integrates with various Language Model (LLM) providers like OpenAI, Anthropic, and Deepseek for content generation. This application provides a modern interface for generating different types of content using various AI models.
 
-![Content Assistant Screenshot]
-
 ## Features
 
 -   🤖 Support for multiple LLM providers (OpenAI, Anthropic, Deepseek)
@@ -27,7 +25,7 @@ A flexible Laravel application that integrates with various Language Model (LLM)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/content-assistant.git
+git clone https://github.com/iritmaulana/content-assistant.git
 cd content-assistant
 ```
 
@@ -220,10 +218,6 @@ return [
 ## Security
 
 Please do not include any API keys in your code or pull requests. Always use environment variables for sensitive data.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
